@@ -14,10 +14,9 @@ You need to help David to create the program.
 
 
 2. Write a program to create an application of Employee class with the following functionalities?
-  1. The Employee class should be defined with the properties of ECode, Ename, Monthsal.
-  2.  The application has to read Emp Details ECode, Ename, Monthsal using accept() method. 
-  3. The application has to calculate GrossSal of Employee using CalcSal() function.   
-  4. When you invoke a function disp(), the application has to display all details of employee.       
+ The application has to read Emp Details ECode, Ename, Monthsal using accept() method. 
+ The application has to calculate GrossSal of Employee using CalcSal() function.   
+ When you invoke a function disp(), the application has to display all details of employee.       
  
 3. You are assigned to a task of creating an application for an event registration process. 
 The application has to allow the user to register by entering name and city for the event. 
